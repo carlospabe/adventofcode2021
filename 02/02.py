@@ -1,5 +1,5 @@
 def get_instructions():
-    with open("02_input.txt", 'r', encoding='utf-8-sig') as f:
+    with open("02/02_input.txt", 'r', encoding='utf-8-sig') as f:
         lines = f.read().splitlines()
     
     instructions = list()

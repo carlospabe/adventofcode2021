@@ -1,5 +1,5 @@
 def get_report():
-     with open("03/03_input.txt", 'r', encoding='utf-8-sig') as f:
+    with open("03/03_input.txt", 'r', encoding='utf-8-sig') as f:
         return f.read().splitlines()
 
 

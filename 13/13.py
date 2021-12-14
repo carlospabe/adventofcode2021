@@ -107,4 +107,3 @@ dots, fold_insts = get_input(file_path)
 
 print(part1(dots, fold_insts))
 print(part2(dots, fold_insts))
-       
